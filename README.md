@@ -2,7 +2,7 @@
 
 This is an extra EXTRA small grid for Twitter Bootstrap 3, which allows you to target devices smaller than 480px wide (although this number can easily be changed as necessary).
 
----
+&nbsp;
 
 ## Installation
 
@@ -12,7 +12,7 @@ Save the `xxs.scss` into your current project, and then import it either into `b
 
     @import 'xxs';
 
----
+
 
 ## Usage
 
