@@ -236,4 +236,16 @@
   .show-xxs, .visible-xxs {
     display: block;
   }
+
+  table.show-xxs, table.visible-xxs  {
+    display: table;
+  }
+
+  tr.show-xxs, tr.visible-xxs  {
+    display: table-row;
+  }
+
+  th.show-xxs, td.show-xxs, th.visible-xxs, td.visible-xxs  {
+    display: table-cell;
+  }
 }
